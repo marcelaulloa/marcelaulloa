@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Data Scientist with background in Finance and Strategy & Operations.
-I'm currently working on Machine Learning projects with focus on NLP.
+\nI'm currently working on Machine Learning projects with focus on NLP.
 
 - 🔭 I’m currently working on NLP/Visualization project about Political Polarization on Social Media in Brazil.
 - 🌱 I’m currently learning to use Machine Learning to improve Social Media Engagement.
